@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, seja bem-vindo! 👋
 
 Olá! Meu nome é Guilherme Aparecido, tenho 23 anos e sou um estudante dedicado na área de programação. Estou focado em me tornar um desenvolvedor web e estou entusiasmado com as oportunidades que essa carreira oferece. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar meus objetivos profissionais. 
 
