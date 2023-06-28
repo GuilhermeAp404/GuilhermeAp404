@@ -1,11 +1,7 @@
-<div style="width: 100%;">
-  <div style="width: 80%; margin: 0 auto;">
-    ### Hi there 👋
-    
-    ### Linguagens
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)    
-  </div>
-</div>
+### Hi there 👋
+
+### Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **GuilhermeAp404/GuilhermeAp404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
