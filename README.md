@@ -1,9 +1,8 @@
 ### Hi there 👋
-<br>
+
 Olá! Meu nome é Guilherme Aparecido, tenho 23 anos e sou um estudante dedicado na área de programação. Estou focado em me tornar um desenvolvedor web e estou entusiasmado com as oportunidades que essa carreira oferece. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar meus objetivos profissionais. 
 
 ### Linguagens
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAp404&layout=compact&hide=handlebars,ruby,dockerfile,mako&theme=dracula)
 
 <!--
