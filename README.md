@@ -3,7 +3,7 @@
 Olá! Meu nome é Guilherme Aparecido, tenho 23 anos e sou um estudante dedicado na área de programação. Estou focado em me tornar um desenvolvedor web e estou entusiasmado com as oportunidades que essa carreira oferece. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar meus objetivos profissionais. 
 
 # Estatísticas📶
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAp404&layout=compact&hide=handlebars,ruby,dockerfile,mako&theme=dracula)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAp404&layout=compact&hide=handlebars,ruby,dockerfile,mako&theme=dark)
 
 # Stacks📚
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)	![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
