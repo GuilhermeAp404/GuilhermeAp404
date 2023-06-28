@@ -1,3 +1,7 @@
+<div style="width: 100%;">
+  <div style="width: 80%; margin: 0 auto;"></div>
+</div>
+
 ### Hi there 👋
 
 ### Linguagens
