@@ -13,7 +13,7 @@ Olá! Meu nome é Guilherme Aparecido, tenho 24 anos e sou estudante de programa
 </p>
 
 ## Estatísticas📶
-<p align="center">
+<p align="center'>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAp404&layout=compact&hide=handlebars,ruby,dockerfile,mako&theme=merko)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 </p>
