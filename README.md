@@ -4,7 +4,7 @@ Olá! Meu nome é Guilherme Aparecido, tenho 24 anos e sou estudante de programa
 
 ## Linguagens e Ferramentas💡
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,spring,js,ts,react,nextjs,postgres,mysql,mongodb,idea,vscode,html,css,sass,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,spring,js,ts,react,nextjs,postgres,mysql,mongodb,idea,vscode,html,css,sass,tailwind" />
 </a>
 
 ## O que estou estudando👓
