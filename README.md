@@ -18,4 +18,7 @@ Olá! Meu nome é Guilherme Aparecido, tenho 24 anos e sou estudante de programa
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAp404&show_icons=true&theme=merko" height="165"/>
 </p>
 
+## Entrar em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-faria-dev/)
+
 
